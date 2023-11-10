@@ -1,3 +1,3 @@
-# The World is One Object
+# TheWorldIsOneObject
 
 _More content coming soon._
