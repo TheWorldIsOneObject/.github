@@ -1,5 +1,17 @@
 # TheWorldIsOneObject
+TWIOO’s goal is to develop a digital twin of our world. As a foundation we use the Asset Administration Shell. This Industry 4.0 technology enables a digital twin that is uniquely defined, unambiguously identifiable globally and can be flexible integrated, in full or in parts, to satisfy specific needs of the user. For this, TWIOO develops various services and applications to enable simple and secure integration of Industry 4.0 technologies. In addition to new developments, we pay particular attention to compatibility with legacy systems that are still widely used in industry and business today.
 
-_Note: This project is in very early development._
+## Members and Contributors
+| Name          | Alias           | Contact                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Merlin Seela  | IAmAMerlin      | <a href="https://github.com/merlinseela"><img src="https://theworldisoneobject.com/svg/gith.svg" alt="GitHub-Logo-Profile-Link-To-MerlinSeela" style="width:35px;height:35px;background-color:white"></a> <a href="https://www.linkedin.com/in/merlinseela/"><img src="https://theworldisoneobject.com/svg/linkedin.svg" alt="LinkedIn-Logo-Profile-Link-To-MerlinSeela" style="width:35px;height:35px;background-color:white"></a>                  |
+| Dominic Seela | EngineerTrooper | <a href="https://github.com/engineertrooper"><img src="https://theworldisoneobject.com/svg/gith.svg" alt="GitHub-Logo-Profile-Link-To-MerlinSeela" style="width:35px;height:35px;background-color:white"></a> <a href="https://www.linkedin.com/in/dominic-seela-b71885149/"><img src="https://theworldisoneobject.com/svg/linkedin.svg" alt="LinkedIn-Logo-Profile-Link-To-DominicSeela" style="width:35px;height:35px;background-color:white"></a> |
 
-Further Information can be found on our [Website](https://www.theworldisoneobject.com/)!
+## Contact and offical Website
+You can find our offical Website using this [Link](https://www.theworldisoneobject.com) or by copy and pasting `https://www.theworldisoneobject.com`. For individual contact please use the presented Contact-Information in [Members and Contributors](#Members%20and%20Contributors).
+
+## Applications and Repositories
+
+| Application | Repository                                                                                                                                                                                                                            | Status         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| AAS-Manager | <a href="https://github.com/TheWorldIsOneObject/twioo-aas-manager"><img src="https://theworldisoneobject.com/svg/gith.svg" alt="GitHub-Logo-Repository-Link-To-AasManager" style="width:35px;height:35px;background-color:white"></a> | In Development |
