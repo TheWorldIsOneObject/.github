@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/TheWorldIsOneObject/.github/main/profile/res/img/SocialPreviewBanner_V1.png)
+
 # TheWorldIsOneObject
 TWIOO’s goal is to develop a digital twin of our world. As a foundation we use the Asset Administration Shell. This Industry 4.0 technology enables a digital twin that is uniquely defined, unambiguously identifiable globally and can be flexible integrated, in full or in parts, to satisfy specific needs of the user. For this, TWIOO develops various services and applications to enable simple and secure integration of Industry 4.0 technologies. In addition to new developments, we pay particular attention to compatibility with legacy systems that are still widely used in industry and business today.
 
