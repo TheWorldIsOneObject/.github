@@ -20,4 +20,4 @@ TWIOO’s goal is to develop a digital twin of our world. As a foundation we use
 
 | Application | Repository                                                                                                                                                                                                                            | Status         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| AAS-Manager | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](https://github.com/TheWorldIsOneObject/twioo-aas-manager) | In Development | 
+| XXX | [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&color=181717)](XXX) | XXX | 
